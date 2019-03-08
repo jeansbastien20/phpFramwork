@@ -1,0 +1,5 @@
+<?php
+	include_once('../app/views/_shared/header.php');?>
+
+
+<?phpinclude_once('../app/views/_shared/footer.php');
